@@ -1,5 +1,5 @@
 server:
   netty:
-    port: 6666
+    port: 9999
     connection-timeout: 10000
   port: 8081
